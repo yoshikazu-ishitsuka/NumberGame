@@ -33,7 +33,7 @@ Rubyのみで製作したアプリとなります
 1. ターミナルで実行。アプリのディレクトリ上で`ruby number_game.rb`を実行
 2. 画面のメッセージに従い、手札の設定と相手の手札に対するコールを選択
 
-## インストール
+## インストール方法
 ```
 $ git clone https://github.com/yoshikazu-ishitsuka/NumberGame.git
 $ cd NumberGame
